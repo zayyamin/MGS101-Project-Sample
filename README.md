@@ -1,5 +1,3 @@
 # MGS101-Project-Sample
 Just a sample file !
-Python
-BLahBLahBLahBLahBLahBLahBLahBLahBLahBLahBLah
-BLahBLahBLahBLahBLahBLahBLahBLahBLahBLahBLah
+Python MGS101 Final Project
